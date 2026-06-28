@@ -175,6 +175,13 @@ This project demonstrates:
 
 ---
 
+## 🎥 Project Demo
+
+Watch the live demonstration here:
+
+https://github.com/chetnagupta110606-netizen/Credit-Scoring-Model/blob/main/codeAlpha1.mp4
+
+
 ## 👨‍💻 Author
 
 **Chetna Gupta**
